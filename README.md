@@ -7,6 +7,4 @@ __*Estou iniciando, e quero cada vez mais adquirir conhecimento e quem sabe entr
 
 Nome | Idade | Profissão
 ---|---|---
-1 | Matheus
-2 | 29
-3 | Analista de Suporte
+Matheus | 29 | Analista de Suporte
